@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/neyuto/static/css/main.a1b89b63.css",
+    "main.js": "/neyuto/static/js/main.3d65f94f.js",
+    "static/media/background1.jpg": "/neyuto/static/media/background1.a3da87466a89a5787020.jpg",
+    "static/media/avatar1.jpg": "/neyuto/static/media/avatar1.eedf26caafb23834b1f3.jpg",
+    "static/media/hangman.jpg": "/neyuto/static/media/hangman.775c66203299dc629ce6.jpg",
+    "static/media/snakexenzia.jpg": "/neyuto/static/media/snakexenzia.d0d41e2609cacf0502e9.jpg",
+    "static/media/avatar2.jpg": "/neyuto/static/media/avatar2.7c852079c6f2fb19e013.jpg",
+    "static/media/avatar3.jpg": "/neyuto/static/media/avatar3.5b82503cf20bdb813e61.jpg",
+    "index.html": "/neyuto/index.html",
+    "main.a1b89b63.css.map": "/neyuto/static/css/main.a1b89b63.css.map",
+    "main.3d65f94f.js.map": "/neyuto/static/js/main.3d65f94f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1b89b63.css",
+    "static/js/main.3d65f94f.js"
+  ]
+}
