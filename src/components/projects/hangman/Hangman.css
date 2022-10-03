@@ -1,0 +1,42 @@
+.hangman-area-divider {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .hangman-word {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 20px 0;
+  }
+  
+  .hangman-letter {
+    border-bottom: 2px solid rgb(0, 174, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    margin: 0 3px;
+    width: 26px;
+    height: 50px;
+    color: rgb(0, 74, 233);
+  }
+  
+  .hangman-figure-area {
+    fill: transparent;
+    stroke: black;
+    stroke-width: 4px;
+    stroke-linecap: round;
+  }
+  
+  .hangman-wrong-letters-area {
+    width: 200px;
+    padding: 20px;
+  }
+  
+  .hangman-wrong-letters-area h4 {
+    text-align: center;
+  }
+  
+  .hangman-wrong-letters-area span {
+    font-size: 24px;
+  }

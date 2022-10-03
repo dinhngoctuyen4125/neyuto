@@ -1,0 +1,17 @@
+.snakexenzia-food {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: rgb(255, 0, 0);
+    border: 1px solid inherit;
+    z-index: 1;
+  }
+  
+  .snakexenzia-dot {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: rgb(0, 74, 233);
+    border: 1px solid inherit;
+    z-index: 2;
+  }
