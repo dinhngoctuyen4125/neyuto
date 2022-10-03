@@ -12,9 +12,9 @@ const App = () => {
     <>
       <Marquee />
       <Routes>
-        <Route path="/" element={< Home />} />
-        <Route path="/snakexenzia" element={< SnakeXenzia />} />
-        <Route path="/hangman" element={< Hangman />} />
+        <Route path="/neyuto" element={< Home />} />
+        <Route path="/neyuto/snakexenzia" element={< SnakeXenzia />} />
+        <Route path="/neyuto/hangman" element={< Hangman />} />
       </Routes>      
     </>
   )

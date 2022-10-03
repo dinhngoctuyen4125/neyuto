@@ -40,7 +40,7 @@ const Header = () => {
                   <div className='d-flex justify-content-center'>
                     <span style={{'margin': '12px'}}><a target='_blank' rel="noreferrer" href='https://www.facebook.com/dinhngoctuyen4125/'><i className="fa-brands fa-facebook fa-2xl"></i></a></span>
                     <span style={{'margin': '12px'}}><a target='_blank' rel="noreferrer" href='https://github.com/dinhngoctuyen4125'><i className="fa-brands fa-github fa-2xl"></i></a></span>
-                    <span style={{'margin': '12px'}}><a target='_blank' rel="noreferrer" href='https://stackoverflow.com/users/20146753/neyuto'><i class="fa-brands fa-stack-overflow fa-2xl"></i></a></span>
+                    <span style={{'margin': '12px'}}><a target='_blank' rel="noreferrer" href='https://stackoverflow.com/users/20146753/neyuto'><i className="fa-brands fa-stack-overflow fa-2xl"></i></a></span>
                   </div>
                   <br/>
                 </div>

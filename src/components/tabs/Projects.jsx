@@ -30,7 +30,7 @@ const KetQua = () => {
           <div className='col-lg-6'>
             {
               projectLeft.map((item, index) => {
-                const url = '/' + item.url
+                const url = '/neyuto/' + item.url
                 return (
                   <div className='project-box' key={index}>
                     <img src={item.img} alt={item.name} className='project-img' onMouseOver={() => setState(index)}/>
@@ -48,7 +48,7 @@ const KetQua = () => {
           <div className='col-lg-6'>
             {
               projectRight.map((item, index) => {
-                const url = '/' + item.url
+                const url = '/neyuto/' + item.url
                 return (
                   <div className='project-box' key={index}>
                     <img src={item.img} alt={item.name} className='project-img' onMouseOver={() => setState(index + 3)}/>
